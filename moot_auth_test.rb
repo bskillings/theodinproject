@@ -32,3 +32,6 @@ signature = Digest::SHA1.hexdigest "testapisecretkey #{message} #{timestamp}"
 puts "timestamp: #{timestamp}"
 puts "signature: #{signature}"
 puts "message: #{message}"
+
+
+#I have no idea what this is but I'm adding a comment so I have something to commit
